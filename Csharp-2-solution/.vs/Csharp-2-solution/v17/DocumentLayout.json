@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-2-solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06759931-213B-4AD5-9C83-C8750D87A5D5}|cs2-app\\cs2-app.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-2-solution\\cs2-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06759931-213B-4AD5-9C83-C8750D87A5D5}|cs2-app\\cs2-app.csproj|solutionrelative:cs2-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-2-solution\\cs2-app\\Program.cs",
+              "RelativeDocumentMoniker": "cs2-app\\Program.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-2-solution\\cs2-app\\Program.cs",
+              "RelativeToolTip": "cs2-app\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:52:24.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

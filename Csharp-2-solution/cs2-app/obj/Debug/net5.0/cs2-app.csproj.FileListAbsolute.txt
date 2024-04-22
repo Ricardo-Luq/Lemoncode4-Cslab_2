@@ -1,0 +1,15 @@
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\bin\Debug\net5.0\cs2-app.exe
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\bin\Debug\net5.0\cs2-app.deps.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\bin\Debug\net5.0\cs2-app.runtimeconfig.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\bin\Debug\net5.0\cs2-app.runtimeconfig.dev.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\bin\Debug\net5.0\cs2-app.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\bin\Debug\net5.0\cs2-app.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\cs2-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\cs2-app.AssemblyInfoInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\cs2-app.AssemblyInfo.cs
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\cs2-app.csproj.CoreCompileInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\cs2-app.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\refint\cs2-app.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\cs2-app.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\cs2-app.genruntimeconfig.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-2-solution\cs2-app\obj\Debug\net5.0\ref\cs2-app.dll
